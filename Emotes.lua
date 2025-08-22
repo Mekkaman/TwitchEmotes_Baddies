@@ -33,7 +33,16 @@ TwitchEmotes_Baddies_Emoticons = {
     ["AAAA"] = "AAAA",
     ["petbabey"] = "petbabey",
     ["babey"] = "babey",
-    [""] = "",
+    ["WAGWHA"] = "WAGWHA",
+    ["Sigh"] = "Sigh",
+    ["pregWan"] = "pregWan",
+    ["OneGuy"] = "OneGuy",
+    ["o7"] = "o7",
+    ["mweee"] = "mweee",
+    ["Lurkin"] = "Lurkin",
+    ["glorpWide"] = "glorpWide",
+    ["glorpOff"] = "glorpOff",
+    ["catFU"] = "catFU",
     [""] = "",
     [""] = "",
 
@@ -74,9 +83,18 @@ TwitchEmotes_Baddies_Emoticons_Pack = {
     ["AAAA"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\AAAA.tga:32:32",
     ["petbabey"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\petbabey.tga:32:32",
     ["babey"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\babey.tga:32:32",
+    ["WAGWHA"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\WAGWHA.tga:32:32",
+    ["Sigh"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\Sigh.tga:32:32",
+    ["pregWan"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\pregWan.tga:32:32",
+    ["OneGuy"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\OneGuy.tga:22:84",    
+    ["o7"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\o7.tga:32:32",
+    ["mweee"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\mweee.tga:32:32",
+    ["Lurkin"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\Lurkin.tga:32:32",
+    ["glorpWide"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\glorpWide.tga:22:84",
+    ["glorpOff"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\glorpOff.tga:32:32",
+    ["catFU"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\catFU.tga:32:32",
     [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
     [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
-
 }
 
 -- Register animation metadata for animated Moosebrother emotes.
