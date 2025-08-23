@@ -101,9 +101,9 @@ TwitchEmotes_Baddies_Emoticons_Pack = {
     ["FeelsPeonMan"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\FeelsPeonMan.tga:32:32",
     ["FOOTMEN"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\FOOTMEN.tga:32:51",
     ["Illident"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\Illident.tga:32:32",
-    ["yummers"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
-    ["Zuggers"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\yummers.tga:32:32",
-    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\Zuggers.tga:32:32",
+    ["yummers"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\yummers.tga:32:32",
+    ["Zuggers"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\Zuggers.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
     [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
     [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
 }
