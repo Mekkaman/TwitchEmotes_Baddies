@@ -50,9 +50,9 @@ TwitchEmotes_Baddies_Emoticons = {
     ["Zuggers"] = "Zuggers",
     ["mekkaNerdge"] = "mekkaNerdge",
     ["nothKEK"] = "nothKEK",
-    [""] = "",
-    [""] = "",
-    [""] = "",
+    ["ligCraft"] = "ligCraft",
+    ["wingsCozy"] = "wingsCozy",
+    ["FloorDragon"] = "FloorDragon",
     [""] = "",
 
 }
@@ -109,9 +109,9 @@ TwitchEmotes_Baddies_Emoticons_Pack = {
     ["Zuggers"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\Zuggers.tga:32:32",
     ["mekkaNerdge"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\mekkaNerdge.tga:32:32",
     ["nothKEK"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\nothKEK.tga:32:32",
-    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
-    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
-    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    ["ligCraft"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\ligCraft.tga:32:32",
+    ["wingsCozy"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\wingsCozy.tga:32:32",
+    ["FloorDragon"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\FloorDragon.tga:32:64",
     [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
 }
 
