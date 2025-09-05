@@ -53,6 +53,10 @@ TwitchEmotes_Baddies_Emoticons = {
     ["ligCraft"] = "ligCraft",
     ["wingsCozy"] = "wingsCozy",
     ["FloorDragon"] = "FloorDragon",
+    ["deadJeb"] = "deadJeb",
+    ["kaneiTea"] = "kaneiTea",
+    ["meowchNya"] = "meowchNya",
+    [""] = "",
     [""] = "",
 
 }
@@ -112,6 +116,11 @@ TwitchEmotes_Baddies_Emoticons_Pack = {
     ["ligCraft"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\ligCraft.tga:32:32",
     ["wingsCozy"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\wingsCozy.tga:32:32",
     ["FloorDragon"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\FloorDragon.tga:32:64",
+    ["deadJeb"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\deadJeb.tga:32:32",
+    ["kaneiTea"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\kaneiTea.tga:32:32",
+    ["meowchNya"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\meowchNya.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
     [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
 }
 
