@@ -59,7 +59,7 @@ TwitchEmotes_Baddies_Emoticons = {
     ["razorBrewmaster"] = "razorBrewmaster",
     ["landrickTank"] = "landrickTank",
     ["kromSummon"] = "kromSummon",
-    [""] = "",
+    ["tifCheer"] = "tifCheer",
     [""] = "",
     [""] = "",
 
@@ -126,8 +126,8 @@ TwitchEmotes_Baddies_Emoticons_Pack = {
     ["razorBrewmaster"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\razorBrewmaster.tga:32:32",
     ["landrickTank"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\landrickTank.tga:32:32",
     ["kromSummon"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\kromSummon.tga:32:32",
-    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
-    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    ["tifCheer"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
+    [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\tifCheer.tga:32:32",
     [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga:32:32",
 }
 
