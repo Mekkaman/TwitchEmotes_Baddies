@@ -2,13 +2,12 @@
 ## Title: TwitchEmotes_Baddies
 ## Author: BjornieB
 ## Version: 1.0.0
-## Dependency: TwitchEmotes
-## OptionalDeps: Ace3
+## Dependencies: TwitchEmotes
 ## IconTexture: Interface\AddOns\TwitchEmotes_Baddies\emotes\Crungo.tga
 
-#@no-lib-strip@
-libs\AceConfig-3.0\AceConfig-3.0.xml
-#@end-no-lib-strip@
+libs\AceAddon-3.0\AceAddon-3.0.xml
+libs\AceConsole-3.0\AceConsole-3.0.xml
+libs\AceEvent-3.0\AceEvent-3.0.xml
 
 Core.lua
 Emotes.lua
