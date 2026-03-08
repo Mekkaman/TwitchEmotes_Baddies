@@ -1,4 +1,4 @@
-## Interface: 100299
+## Interface: 120000
 ## Title: TwitchEmotes_Baddies
 ## Author: BjornieB
 ## Version: 1.0.0
