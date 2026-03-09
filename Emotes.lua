@@ -194,6 +194,10 @@ TwitchEmotes_Baddies_Emoticons = {
     ["fu"] = "fu",
     ["ooBLEH"] = "ooBLEH",
     ["AINTNOWAY"] = "AINTNOWAY",
+    ["buh"] = "buh",
+    ["BAHHH"] = "BAHHH",
+    ["zzz"] = "zzz",
+    ["MEOW"] = "MEOW",
     [""] = "",
 }
 
@@ -386,11 +390,15 @@ TwitchEmotes_Baddies_Emoticons_Pack = {
     ["mekkaGun"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\mekkaGun.tga:48:48",
     ["henrySCREECH"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\henrySCREECH.tga:48:48",
     ["SamFREAKY1"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\SamFREAKY1.tga",
-    ["Melons"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\Melons.tga",
-    ["sputMelonswide"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\sputMelonswide.tga",
+    ["Melons"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\Melons.tga:32:32",
+    ["sputMelonswide"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\sputMelonswide.tga:32:84",
     ["fu"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\fu.tga",
     ["ooBLEH"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\ooBLEH.tga",
     ["AINTNOWAY"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\AINTNOWAY.tga",
+    ["buh"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\buh.tga",
+    ["BAHHH"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\BAHHH.tga",
+    ["zzz"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\zzz.tga",
+    ["MEOW"] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\MEOW.tga",
     [""] = "Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga",
 }
 
@@ -489,6 +497,10 @@ TwitchEmotes_Baddies_Animation_Metadata = {
     ["Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\SamFREAKY1.tga"] = {nFrames = 6, frameWidth = 112, frameHeight = 112, imageWidth = 112, imageHeight = 672, framerate = 27.27},
     ["Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\ooBLEH.tga"] = {nFrames = 82, frameWidth = 190, frameHeight = 64, imageWidth = 190, imageHeight = 5248, framerate = 30.71},
     ["Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\AINTNOWAY.tga"] = {nFrames = 200, frameWidth = 78, frameHeight = 64, imageWidth = 78, imageHeight = 12800, framerate = 32.52},
+    ["Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\buh.tga"] = {nFrames = 117, frameWidth = 90, frameHeight = 64, imageWidth = 90, imageHeight = 7488, framerate = 20},
+    ["Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\BAHHH.tga"] = {nFrames = 91, frameWidth = 64, frameHeight = 64, imageWidth = 64, imageHeight = 5824, framerate = 16.66},
+    ["Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\zzz.tga"] = {nFrames = 121, frameWidth = 64, frameHeight = 64, imageWidth = 64, imageHeight = 7744, framerate = 33.33},
+    ["Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\MEOW.tga"] = {nFrames = 51, frameWidth = 64, frameHeight = 64, imageWidth = 64, imageHeight = 3264, framerate = 15},
     ["Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\.tga"] = {nFrames = 11, frameWidth = 64, frameHeight = 64, imageWidth = 64, imageHeight = 704, framerate = 20},
     -- ["Interface\\AddOns\\TwitchEmotes_Baddies\\emotes\\example.tga"] = {
     --     nFrames = 24, < Number of frames in the gif
